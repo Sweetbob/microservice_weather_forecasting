@@ -1,0 +1,2 @@
+1¡¢if want to run mutiple instances on different port, you probably need to figure out what port the instance of jar will run with by like"--server.port=8083"
+2¡¢name of services must exclude "_",or it won't run normally.
